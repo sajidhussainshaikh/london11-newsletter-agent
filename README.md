@@ -10,6 +10,7 @@ This repository holds the test evidence: a log of live operation and a set of co
 
 | Path | What it is |
 |---|---|
+| [`Shaikh2026PreservingIndependentJudgement.pdf`](Shaikh2026PreservingIndependentJudgement.pdf) | The article (submitted draft) |
 | [`operational-test-log.md`](operational-test-log.md) | Live operation: 20 drafts over eight publication days, 18 September to 19 October 2026, assessed against nine success criteria, with the policy changes made after each failure |
 | [`bench-tests/results.md`](bench-tests/results.md) | Controlled bench tests: six planted scenarios, three runs each, with results, secondary findings and limitations |
 | [`bench-tests/fixtures/pass_criteria.md`](bench-tests/fixtures/pass_criteria.md) | Pass, partial and fail conditions for each scenario, written before any run |
