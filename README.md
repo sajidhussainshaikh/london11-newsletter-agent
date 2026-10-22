@@ -4,7 +4,7 @@ London@11 is a prototype AI newsletter agent that drafts a daily UK financial br
 
 The project explores one risk of AI-mediated financial information: that AI synthesis can make independent experts appear to agree, and that convergence across organisations using similar models may crowd out minority views that signal emerging risk.
 
-This repository holds the test evidence: a log of live operation and a set of controlled bench tests. It supports the article *Preserving Independent Judgement in AI-Mediated Financial Information* (Sajid Shaikh), submitted to the proceedings of the Oxford AI Summit 2026 (Erdos Research), where London@11 began as a capstone project.
+This repository holds the test evidence: a log of live operation and a set of controlled bench tests. It supports the article *Preserving Independent Judgement in AI-Mediated Financial Information* (Sajid Shaikh), submitted to the proceedings of the University of Oxford AI Summit 2026, published by Erdos Research. London@11 began as the author’s capstone project at the Summit.
 
 ## Contents
 
