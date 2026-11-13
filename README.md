@@ -4,13 +4,13 @@ London@11 is a prototype AI newsletter agent that drafts a daily UK financial br
 
 The project explores one risk of AI-mediated financial information: that AI synthesis can make independent experts appear to agree, and that convergence across organisations using similar models may crowd out minority views that signal emerging risk.
 
-This repository holds the test evidence: a log of live operation and a set of controlled bench tests. It supports the article *Preserving Independent Judgement in AI-Mediated Financial Information* (Sajid Shaikh), submitted to the proceedings of the University of Oxford AI Summit 2026, published by Erdos Research. London@11 began as the author’s capstone project at the Summit.
+This repository holds the test evidence: a log of live operation and a set of controlled bench tests. The agent is defined by its project instructions and editorial policies rather than by code, so there is no code to run here. The evidence supports the article *Preserving Independent Judgement in AI-Mediated Financial Information* (Sajid Shaikh), accepted for the proceedings of the University of Oxford AI Summit 2026, published by Erdos Research. London@11 began as the author’s capstone project at the Summit.
 
 ## Contents
 
 | Path | What it is |
 |---|---|
-| [`Shaikh2026PreservingIndependentJudgement.pdf`](Shaikh2026PreservingIndependentJudgement.pdf) | The article (submitted draft) |
+| [`Shaikh2026PreservingIndependentJudgement.pdf`](Shaikh2026PreservingIndependentJudgement.pdf) | The article, as accepted for the proceedings |
 | [`operational-test-log.md`](operational-test-log.md) | Live operation: 20 drafts over eight publication days, 18 September to 19 October 2026, assessed against nine success criteria, with the policy changes made after each failure |
 | [`bench-tests/results.md`](bench-tests/results.md) | Controlled bench tests: six planted scenarios, three runs each, with results, secondary findings and limitations |
 | [`bench-tests/fixtures/pass_criteria.md`](bench-tests/fixtures/pass_criteria.md) | Pass, partial and fail conditions for each scenario, written before any run |
